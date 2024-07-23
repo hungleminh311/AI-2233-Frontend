@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Take creative risks and win big with Gamble – where innovative design meets playful creativity.",
+        "title": "Elevate Your Design Game"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Take creative risks and win big with Gamble – where innovative design meets playful creativity.",
+        "title": "Elevate Your Design Game"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Take creative risks and win big with Gamble – where innovative design meets playful creativity. Elevate Your Design Game Elevate Your Design Game Elevate Your Design Game Elevate Your Design Game",
+        "title": "Elevate Your Design Game Elevate Your Design Game Elevate Your Design Game"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Take creative risks and win big with Gamble – where innovative design meets playful creativity.",
+        "title": "Elevate Your Design Game"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Take creative risks and win big with Gamble – where innovative design meets playful creativity.",
+        "title": "Elevate Your Design Game"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Take creative risks and win big with Gamble – where innovative design meets playful creativity.",
+        "title": "Elevate Your Design Game"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Take creative risks and win big with Gamble – where innovative design meets playful creativity.",
+        "title": "Elevate Your Design Game"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Take creative risks and win big with Gamble – where innovative design meets playful creativity.",
+        "title": "Elevate Your Design Game"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Take creative risks and win big with Gamble – where innovative design meets playful creativity.",
+        "title": "Elevate Your Design Game"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Elevate Your Design Game",
+  "subtitle": "Take creative risks and win big with Gamble – where innovative design meets playful creativity."
+}
